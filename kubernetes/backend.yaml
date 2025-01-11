@@ -18,7 +18,7 @@ spec:
     spec:
       containers:
         - name: backend
-          image: shivbhole/wanderlust-backend-beta:v2.5
+          image: shivbhole/wanderlust-backend-beta:v2.6
           ports:
             - containerPort: 8080
 ---
